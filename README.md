@@ -1,5 +1,8 @@
 - 👋 Hi, My name is André Batista Bezerra
-I'm developer in PHP, JS, VueJs,Scriptcase and i use PostgreSql like DB language.
+I'm FullStack developer in:
+ <img align="center" alt="Andre-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> PHP
+
+, JS, VueJs,Scriptcase and i use PostgreSql like DB language.
 
 <div>
   <a href = "https://github.com/andrebbezerra">
