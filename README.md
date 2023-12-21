@@ -3,7 +3,7 @@ I'm developer in PHP, JS, VueJs,Scriptcase and i use PostgreSql like DB language
 
 <div>
   <a href = "https://github.com/andrebbezerra">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andrebbezerra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andrebbezerra&show_icons=true&theme=dracula&include_all_commits=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrebbezerra&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
