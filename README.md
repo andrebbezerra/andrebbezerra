@@ -1,5 +1,5 @@
 # 👋 Sobre Mim
-Sou um Desenvolvedor FullStack, com inicio dos estudos/trabalho em meados de 2012, onde faço parte de uma equipe de desenvolvimento de um sistema ERP, aprendi diversas linguagens e também bastante regra de negócio, ainda há muito a aperfeiçoar, mas estou em busca de novos desafios e oportunidades sempre.
+Sou um Desenvolvedor FullStack, com inicio dos estudos/trabalho em meados de 2012, onde faço parte de uma equipe de desenvolvimento de um sistema ERP, aprendi diversas linguagens e também bastante regra de negócio, buscando aprimoramento contínuo e um apaixonado em aprender e aperfeiçoar todos os dias.
 
 
 # Meus Status:
@@ -17,12 +17,15 @@ Sou um Desenvolvedor FullStack, com inicio dos estudos/trabalho em meados de 201
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
-# Linguagens de Programação:
+# Linguagens de Programação FrontEnd:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Vue](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+
+# Linguagens de Programação BackEnd:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Vue](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+
+# API:
 ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
 
 # Banco de Dados:
