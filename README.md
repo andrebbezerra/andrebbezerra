@@ -1,12 +1,6 @@
 # 👋 Sobre Mim
 Sou um Desenvolvedor FullStack, com inicio dos estudos/trabalho em meados de 2012, onde faço parte de uma equipe de desenvolvimento de um sistema ERP, aprendi diversas linguagens e também bastante regra de negócio, buscando aprimoramento contínuo e um apaixonado em aprender e aperfeiçoar todos os dias.
 
-
-# Meus Status:
-<a href = "https://github.com/andrebbezerra">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=andrebbezerra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrebbezerra&layout=compact&langs_count=16&theme=dracula"/>
-
 # Entre em contato comigo através desses meios:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andré-batista-bezerra-a6983539/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andrebbezerra)
@@ -15,7 +9,6 @@ Sou um Desenvolvedor FullStack, com inicio dos estudos/trabalho em meados de 201
 # Linguagens de Marcação:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
 
 # Linguagens de Programação FrontEnd:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
