@@ -38,13 +38,14 @@ Front-End & Others
 
 
 
-📊 Estatísticas e Atividade
+📊 Atividade no GitHub
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrebbezerra&theme=radical" alt="GitHub Details" />
+<!-- Usando uma abordagem mais robusta para as estatísticas -->
+  <img src="https://github-readme-stats.vercel.app/api?username=andrebbezerra&show_icons=true&theme=dracula&count_private=true" alt="Estatísticas do GitHub" />
 </p> <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=andrebbezerra&theme=radical" alt="Linguagens mais usadas" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=andrebbezerra&theme=radical" alt="Estatísticas Gerais" />
+  <!-- Streak Stats costuma ser muito estável -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andrebbezerra&theme=dracula" alt="GitHub Streak" />
 </p>
 
 
